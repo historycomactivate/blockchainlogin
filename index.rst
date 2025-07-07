@@ -10,6 +10,13 @@ Blockchain Login Guide: How to Login to Blockchain Wallet?
       :align: center
       :height: 20px
 
+.. tip::
+Blockchain Customer Support Number +1 (870) 406-6577 (Tolll Free )
+----------------------------
+
+You can reach Blockchain customer support by calling +1 (870) 406-6577 which is a Toll free number. If you have questions about their Terms of Service, your account, or how you use the wallet, you can also submit a message through their official contact page for assistance.
+
+
 How to Safely Log In to Your Blockchain Wallet: Step-by-Step Guide
 ===================================================================
 
