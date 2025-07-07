@@ -8,7 +8,7 @@ Blockchain Login Guide: How to Login to Blockchain Wallet?
 .. image:: blank.png
       :width: 350px
       :align: center
-      :height: 100px
+      :height: 20px
 
 How to Safely Log In to Your Blockchain Wallet: Step-by-Step Guide
 ===================================================================
